@@ -1,0 +1,3533 @@
+fileFormatVersion: 2
+guid: 1ff94b75ab75e4e428ac832aeb678627
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7091808974525693652
+    second: Antecabno_0
+  - first:
+      213: 5753926453015624068
+    second: Antecabno_1
+  - first:
+      213: -7786233031817836938
+    second: Antecabno_2
+  - first:
+      213: 5581759432520234562
+    second: Antecabno_3
+  - first:
+      213: -4051178291579085676
+    second: Antecabno_4
+  - first:
+      213: 5406741197004071779
+    second: Antecabno_5
+  - first:
+      213: 2233119421959663085
+    second: Antecabno_6
+  - first:
+      213: 1334559591671538195
+    second: Antecabno_7
+  - first:
+      213: 3173910207635254796
+    second: Antecabno_8
+  - first:
+      213: 7066749116893009744
+    second: Antecabno_9
+  - first:
+      213: -287842963421324864
+    second: Antecabno_10
+  - first:
+      213: -2108548842549924028
+    second: Antecabno_11
+  - first:
+      213: 2487881722641483614
+    second: Antecabno_12
+  - first:
+      213: 3438437426534880310
+    second: Antecabno_13
+  - first:
+      213: 1260671784111280498
+    second: Antecabno_14
+  - first:
+      213: -1920271424226745523
+    second: Antecabno_15
+  - first:
+      213: -5080247304029348868
+    second: Antecabno_16
+  - first:
+      213: 3199431213964813753
+    second: Antecabno_17
+  - first:
+      213: -4534142162804050446
+    second: Antecabno_18
+  - first:
+      213: 6671860365314595772
+    second: Antecabno_19
+  - first:
+      213: -6897757588266450333
+    second: Antecabno_20
+  - first:
+      213: -1915950062896255933
+    second: Antecabno_21
+  - first:
+      213: -1568516503801405018
+    second: Antecabno_22
+  - first:
+      213: 3983582689738256092
+    second: Antecabno_23
+  - first:
+      213: 9053137669578552657
+    second: Antecabno_24
+  - first:
+      213: 844733868335174561
+    second: Antecabno_25
+  - first:
+      213: 6924901867079687142
+    second: Antecabno_26
+  - first:
+      213: -6038107651821243147
+    second: Antecabno_27
+  - first:
+      213: -7612156251243617062
+    second: Antecabno_28
+  - first:
+      213: -6111220179851624844
+    second: Antecabno_29
+  - first:
+      213: -3531245859338180502
+    second: Antecabno_30
+  - first:
+      213: -1098877934537792419
+    second: Antecabno_31
+  - first:
+      213: -5682193287658652525
+    second: Antecabno_32
+  - first:
+      213: -8698034228976971236
+    second: Antecabno_33
+  - first:
+      213: -8193891235161061839
+    second: Antecabno_34
+  - first:
+      213: -6196922834718182660
+    second: Antecabno_35
+  - first:
+      213: -8289022856487551174
+    second: Antecabno_36
+  - first:
+      213: 4186058145487398697
+    second: Antecabno_37
+  - first:
+      213: 4281625549065634321
+    second: Antecabno_38
+  - first:
+      213: 53389221836837855
+    second: Antecabno_39
+  - first:
+      213: 6236161546639512306
+    second: Antecabno_40
+  - first:
+      213: -80396624935655647
+    second: Antecabno_41
+  - first:
+      213: 4244351171739636656
+    second: Antecabno_42
+  - first:
+      213: -8670735959795803097
+    second: Antecabno_43
+  - first:
+      213: -5567401237239294996
+    second: Antecabno_44
+  - first:
+      213: -1932049290515681163
+    second: Antecabno_45
+  - first:
+      213: -1733537694000997400
+    second: Antecabno_46
+  - first:
+      213: -4202503382047386405
+    second: Antecabno_47
+  - first:
+      213: -6803075835961982040
+    second: Antecabno_48
+  - first:
+      213: 178017656168061824
+    second: Antecabno_49
+  - first:
+      213: -93355129378744428
+    second: Antecabno_50
+  - first:
+      213: 6687902386503877659
+    second: Antecabno_51
+  - first:
+      213: 2733755024934015087
+    second: Antecabno_52
+  - first:
+      213: 3517380974617417595
+    second: Antecabno_53
+  - first:
+      213: 2831721108541297023
+    second: Antecabno_54
+  - first:
+      213: 7410408903183198423
+    second: Antecabno_55
+  - first:
+      213: 1993596978445177848
+    second: Antecabno_56
+  - first:
+      213: 5225996289004815370
+    second: Antecabno_57
+  - first:
+      213: -3391805030141951234
+    second: Antecabno_58
+  - first:
+      213: 547613102997612755
+    second: Antecabno_59
+  - first:
+      213: -8679467922181044648
+    second: Antecabno_60
+  - first:
+      213: 1299392775586600925
+    second: Antecabno_61
+  - first:
+      213: 8805855371537735890
+    second: Antecabno_62
+  - first:
+      213: 6375831640731050455
+    second: Antecabno_63
+  - first:
+      213: 1717210721226477224
+    second: Antecabno_64
+  - first:
+      213: 6258797888479778255
+    second: Antecabno_65
+  - first:
+      213: 1062898003239366790
+    second: Antecabno_66
+  - first:
+      213: -4751234833873372264
+    second: Antecabno_67
+  - first:
+      213: 885943287717235074
+    second: Antecabno_68
+  - first:
+      213: -2415282677325576255
+    second: Antecabno_69
+  - first:
+      213: 2622301355846151469
+    second: Antecabno_70
+  - first:
+      213: 5045339458473358905
+    second: Antecabno_71
+  - first:
+      213: -2054433031718260480
+    second: Antecabno_72
+  - first:
+      213: -6563968988197220533
+    second: Antecabno_73
+  - first:
+      213: 3255938453368366651
+    second: Antecabno_74
+  - first:
+      213: -1717614745265306479
+    second: Antecabno_75
+  - first:
+      213: 3229283881375959913
+    second: Antecabno_76
+  - first:
+      213: 3287653949460090059
+    second: Antecabno_77
+  - first:
+      213: -3297340328876872627
+    second: Antecabno_78
+  - first:
+      213: 3084706634630914699
+    second: Antecabno_79
+  - first:
+      213: 6468338960090691202
+    second: Antecabno_80
+  - first:
+      213: -5226394123166308636
+    second: Antecabno_81
+  - first:
+      213: 5003662954503191805
+    second: Antecabno_82
+  - first:
+      213: -6289970306230694918
+    second: Antecabno_83
+  - first:
+      213: 1432221434663330423
+    second: Antecabno_84
+  - first:
+      213: 56933303170786365
+    second: Antecabno_85
+  - first:
+      213: 107425507847428057
+    second: Antecabno_86
+  - first:
+      213: -4241137922759828191
+    second: Antecabno_87
+  - first:
+      213: 7160058990774445047
+    second: Antecabno_88
+  - first:
+      213: 8461067744722318309
+    second: Antecabno_89
+  - first:
+      213: -8593601286452195996
+    second: Antecabno_90
+  - first:
+      213: 3307235965886321374
+    second: Antecabno_91
+  - first:
+      213: 8770520955275283397
+    second: Antecabno_92
+  - first:
+      213: -4256261047477267170
+    second: Antecabno_93
+  - first:
+      213: -6492929795565512853
+    second: Antecabno_94
+  - first:
+      213: -7061246855434510719
+    second: Antecabno_95
+  - first:
+      213: 982686051653737495
+    second: Antecabno_96
+  - first:
+      213: 4470352044626684304
+    second: Antecabno_97
+  - first:
+      213: -3484767306674397154
+    second: Antecabno_98
+  - first:
+      213: -3440176069245047435
+    second: Antecabno_99
+  - first:
+      213: -5332390678804629793
+    second: Antecabno_100
+  - first:
+      213: -7488627830063084792
+    second: Antecabno_101
+  - first:
+      213: 3777214740431593867
+    second: Antecabno_102
+  - first:
+      213: -4202338602059639291
+    second: Antecabno_103
+  - first:
+      213: 8260170045157003350
+    second: Antecabno_104
+  - first:
+      213: -760336680077212786
+    second: Antecabno_105
+  - first:
+      213: 7889150812399263774
+    second: Antecabno_106
+  - first:
+      213: 3985747757726964758
+    second: Antecabno_107
+  - first:
+      213: -2502369867679143620
+    second: Antecabno_108
+  - first:
+      213: 3328007511543249953
+    second: Antecabno_109
+  - first:
+      213: -4187244734626377148
+    second: Antecabno_110
+  - first:
+      213: 7226167046138493577
+    second: Antecabno_111
+  - first:
+      213: -8725577015256484864
+    second: Antecabno_112
+  - first:
+      213: -4363743166003601695
+    second: Antecabno_113
+  - first:
+      213: -523854053730968422
+    second: Antecabno_114
+  - first:
+      213: 8829649009159377936
+    second: Antecabno_115
+  - first:
+      213: -6423597115828542534
+    second: Antecabno_116
+  - first:
+      213: 8735342499886512480
+    second: Antecabno_117
+  - first:
+      213: 4094369561853550641
+    second: Antecabno_118
+  - first:
+      213: 5182796701134702731
+    second: Antecabno_119
+  - first:
+      213: 809523579408581725
+    second: Antecabno_120
+  - first:
+      213: 6558868278793404663
+    second: Antecabno_121
+  - first:
+      213: 6595784021078510220
+    second: Antecabno_122
+  - first:
+      213: -672131904222146956
+    second: Antecabno_123
+  - first:
+      213: 1654348908891526323
+    second: Antecabno_124
+  - first:
+      213: 5175312194119289444
+    second: Antecabno_125
+  - first:
+      213: 2411954750042863131
+    second: Antecabno_126
+  - first:
+      213: -1882971447206933765
+    second: Antecabno_127
+  - first:
+      213: 5537513872363543800
+    second: Antecabno_128
+  - first:
+      213: -8944032569176588720
+    second: Antecabno_129
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 138, y: 359, z: 144, w: 315}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Antecabno_0
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 353
+        width: 1250
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4def78530ba2b6260800000000000000
+      internalID: 7091808974525693652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 814
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48938b79f9d0adf40800000000000000
+      internalID: 5753926453015624068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 998
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676c5109f4eb1f390800000000000000
+      internalID: -7786233031817836938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_3
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 991
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246fd0561a4667d40800000000000000
+      internalID: 5581759432520234562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_4
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 983
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c97a0dec257c7c0800000000000000
+      internalID: -4051178291579085676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_5
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 974
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363e5e7f87a980b40800000000000000
+      internalID: 5406741197004071779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_6
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 966
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded6eee5842adfe10800000000000000
+      internalID: 2233119421959663085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_7
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 953
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3122c29b0ee458210800000000000000
+      internalID: 1334559591671538195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_8
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 895
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ee51b848efb0c20800000000000000
+      internalID: 3173910207635254796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_9
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 862
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057963d61e2221260800000000000000
+      internalID: 7066749116893009744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_10
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 838
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c91d2e8950610cf0800000000000000
+      internalID: -287842963421324864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_11
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 807
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f2040dffdecb2e0800000000000000
+      internalID: -2108548842549924028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_12
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 819
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e578b31de3bb68220800000000000000
+      internalID: 2487881722641483614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_13
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1006
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634150f2f98c7bf20800000000000000
+      internalID: 3438437426534880310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_14
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 951
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2719f4eee4ece7110800000000000000
+      internalID: 1260671784111280498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_15
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 886
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43a1ae4053d955e0800000000000000
+      internalID: -1920271424226745523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 358
+        width: 1249
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfbd1384ef55f79b0800000000000000
+      internalID: -5080247304029348868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_17
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1000
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b56bafdcb9a66c20800000000000000
+      internalID: 3199431213964813753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_18
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 984
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f571f0d9bd7311c0800000000000000
+      internalID: -4534142162804050446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_19
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 960
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb959937a5379c50800000000000000
+      internalID: 6671860365314595772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_20
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 952
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3628f94f40e3640a0800000000000000
+      internalID: -6897757588266450333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_21
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 944
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c6ea5a19d2965e0800000000000000
+      internalID: -1915950062896255933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_22
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 936
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a16496dc828b3ae0800000000000000
+      internalID: -1568516503801405018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_23
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 896
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde6e33b957884730800000000000000
+      internalID: 3983582689738256092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_24
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 378
+        width: 1244
+        height: 351
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155ffe1beb433ad70800000000000000
+      internalID: 9053137669578552657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_25
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 353
+        width: 1226
+        height: 364
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a31cd74af819bb00800000000000000
+      internalID: 844733868335174561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_26
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 880
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb59b3fe813a1060800000000000000
+      internalID: 6924901867079687142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_27
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 872
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f470a9f415543ca0800000000000000
+      internalID: -6038107651821243147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_28
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 352
+        width: 1258
+        height: 347
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4eadd68303c5690800000000000000
+      internalID: -7612156251243617062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_29
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 978
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ebeb300a5903ba0800000000000000
+      internalID: -6111220179851624844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_30
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 874
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68249ba99e7efec0800000000000000
+      internalID: -3531245859338180502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_31
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 750
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d542c54375000c0f0800000000000000
+      internalID: -1098877934537792419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_32
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 734
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c3ff77f4bc421b0800000000000000
+      internalID: -5682193287658652525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_33
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 742
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1293a1f3ff5a4780800000000000000
+      internalID: -8698034228976971236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_34
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 725
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136c900b553794e80800000000000000
+      internalID: -8193891235161061839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_35
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 719
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2bd18b38b100aa0800000000000000
+      internalID: -6196922834718182660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_36
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 662
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f37ff01a977fc80800000000000000
+      internalID: -8289022856487551174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_37
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 675
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92728e264bdd71a30800000000000000
+      internalID: 4186058145487398697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_38
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 350
+        width: 1268
+        height: 365
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1124b4970c36b6b30800000000000000
+      internalID: 4281625549065634321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_39
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 652
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd35b62e63dadb000800000000000000
+      internalID: 53389221836837855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_40
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 646
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f21665d2eb4b8650800000000000000
+      internalID: 6236161546639512306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 630
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127e19112bf52eef0800000000000000
+      internalID: -80396624935655647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_42
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 621
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3dd8537e6f6ea30800000000000000
+      internalID: 4244351171739636656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_43
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 613
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c5a27859b5ba780800000000000000
+      internalID: -8670735959795803097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_44
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 606
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce31844721e9cb2b0800000000000000
+      internalID: -5567401237239294996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_45
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 582
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570744e186bff25e0800000000000000
+      internalID: -1932049290515681163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_46
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 531
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb1258e6ac31f7e0800000000000000
+      internalID: -1733537694000997400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_47
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 542
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd410b99075bda5c0800000000000000
+      internalID: -4202503382047386405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_48
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 526
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a34179429e9691a0800000000000000
+      internalID: -6803075835961982040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_49
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 518
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b15a77d12787200800000000000000
+      internalID: 178017656168061824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_50
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 511
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4975b63210654bef0800000000000000
+      internalID: -93355129378744428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_51
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 496
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b140d0859c330dc50800000000000000
+      internalID: 6687902386503877659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_52
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 484
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60912c06bf30f520800000000000000
+      internalID: 2733755024934015087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_53
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 479
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77d9cb4c5f30d030800000000000000
+      internalID: 3517380974617417595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_54
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 470
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f715499585b4c4720800000000000000
+      internalID: 2831721108541297023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_55
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 447
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d860aaa2af07d660800000000000000
+      internalID: 7410408903183198423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_56
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 423
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3548da3edaaab10800000000000000
+      internalID: 1993596978445177848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_57
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 406
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0444a3bfe7768840800000000000000
+      internalID: 5225996289004815370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_58
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 390
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2810fab43ede0d0800000000000000
+      internalID: -3391805030141951234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_59
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 380
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8a58e3733899700800000000000000
+      internalID: 547613102997612755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_60
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 375
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856400b19e55c8780800000000000000
+      internalID: -8679467922181044648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_61
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 350
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd75c8c48de580210800000000000000
+      internalID: 1299392775586600925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_62
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 359
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0e8f31ecea43a70800000000000000
+      internalID: 8805855371537735890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_63
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 322
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1687db8118b7850800000000000000
+      internalID: 6375831640731050455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_64
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 332
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae42338d02c4d710800000000000000
+      internalID: 1717210721226477224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_65
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 310
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc55dcfd487bbd650800000000000000
+      internalID: 6258797888479778255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_66
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 320
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680fd8b3a1c20ce00800000000000000
+      internalID: 1062898003239366790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_67
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 312
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89bf38a7719301eb0800000000000000
+      internalID: -4751234833873372264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_68
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 302
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289078be9b08b4c00800000000000000
+      internalID: 885943287717235074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_69
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 311
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7cad1a3313b7ed0800000000000000
+      internalID: -2415282677325576255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_70
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 295
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d2c398039446420800000000000000
+      internalID: 2622301355846151469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_71
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 296
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936f0919185a40640800000000000000
+      internalID: 5045339458473358905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_72
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 303
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001ba91ea003d73e0800000000000000
+      internalID: -2054433031718260480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_73
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 286
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f03dd8bf818e4a0800000000000000
+      internalID: -6563968988197220533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_74
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 279
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b366e8bc5ca6f2d20800000000000000
+      internalID: 3255938453368366651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_75
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 280
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1940d7f4d7ec928e0800000000000000
+      internalID: -1717614745265306479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_76
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 254
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b0f44a498b0dc20800000000000000
+      internalID: 3229283881375959913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_77
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 272
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc8af929d710ad20800000000000000
+      internalID: 3287653949460090059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_78
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 264
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c69b1e07e7d32d0800000000000000
+      internalID: -3297340328876872627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_79
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 246
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82677937541fca20800000000000000
+      internalID: 3084706634630914699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_80
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 236
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2867603730824c950800000000000000
+      internalID: 6468338960090691202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_81
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 214
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6ab705c3e1877b0800000000000000
+      internalID: -5226394123166308636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_82
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 231
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfcb1f252f4907540800000000000000
+      internalID: 5003662954503191805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_83
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 232
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb4d59055985b8a0800000000000000
+      internalID: -6289970306230694918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_84
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 206
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772eecc7ec540e310800000000000000
+      internalID: 1432221434663330423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_85
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 198
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34626f99844ac000800000000000000
+      internalID: 56933303170786365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_86
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 198
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7df032ee6ad7100800000000000000
+      internalID: 107425507847428057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_87
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 193
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d567e97837425c0800000000000000
+      internalID: -4241137922759828191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_88
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 191
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3e3fb67b3ad5360800000000000000
+      internalID: 7160058990774445047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_89
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 180
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e370b00940cb6570800000000000000
+      internalID: 8461067744722318309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_90
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 183
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d4dab29256db880800000000000000
+      internalID: -8593601286452195996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_91
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 176
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2dc07a699a5ed20800000000000000
+      internalID: 3307235965886321374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_92
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 158
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb8d42375627b970800000000000000
+      internalID: 8770520955275283397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_93
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 172
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1519c1c029bee4c0800000000000000
+      internalID: -4256261047477267170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_94
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 168
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6794cf70ca74e5a0800000000000000
+      internalID: -6492929795565512853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_95
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 171
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e5b76a569610e90800000000000000
+      internalID: -7061246855434510719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_96
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 150
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c5d8ae1c333ad00800000000000000
+      internalID: 982686051653737495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_97
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 152
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0992ae8ef71e90e30800000000000000
+      internalID: 4470352044626684304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_98
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 147
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1027c0099e93afc0800000000000000
+      internalID: -3484767306674397154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_99
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 151
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d69d3871a0240d0800000000000000
+      internalID: -3440176069245047435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_100
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 142
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6fe3a0eea8ff5b0800000000000000
+      internalID: -5332390678804629793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_101
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 124
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b4cfd3aac031890800000000000000
+      internalID: -7488627830063084792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_102
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 139
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b816bcb3bcc5b6430800000000000000
+      internalID: 3777214740431593867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_103
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 100
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506d25e6e4b4ea5c0800000000000000
+      internalID: -4202338602059639291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_104
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 103
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650d7ed44e402a270800000000000000
+      internalID: 8260170045157003350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_105
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 91
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e834c4261ddb275f0800000000000000
+      internalID: -760336680077212786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_106
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 93
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10ea888dd4eb7d60800000000000000
+      internalID: 7889150812399263774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_107
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 94
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c10afd778305730800000000000000
+      internalID: 3985747757726964758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_108
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 86
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39e75c0ddbc54dd0800000000000000
+      internalID: -2502369867679143620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_109
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 79
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12cfd5ff2357f2e20800000000000000
+      internalID: 3328007511543249953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_110
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 74
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44258fc491be3e5c0800000000000000
+      internalID: -4187244734626377148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_111
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 71
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98af7b084a0884460800000000000000
+      internalID: 7226167046138493577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_112
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 70
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004f2594fe588e680800000000000000
+      internalID: -8725577015256484864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_113
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 52
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee115be5bed073c0800000000000000
+      internalID: -4363743166003601695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_114
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 59
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c973d7385eab8f0800000000000000
+      internalID: -523854053730968422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_115
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 46
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014135a0ef6398a70800000000000000
+      internalID: 8829649009159377936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_116
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 36
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3e0d2f47ccad6a0800000000000000
+      internalID: -6423597115828542534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_117
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 35
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069bb19c8bb2a3970800000000000000
+      internalID: 8735342499886512480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_118
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 46
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130e3717c6f12d830800000000000000
+      internalID: 4094369561853550641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_119
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 39
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88433ad32efce740800000000000000
+      internalID: 5182796701134702731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_120
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 41
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5483fb08610c3b00800000000000000
+      internalID: 809523579408581725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_121
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 30
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f00f0ef2f7c50b50800000000000000
+      internalID: 6558868278793404663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_122
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 23
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a05970f9ee88b50800000000000000
+      internalID: 6595784021078510220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_123
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 23
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ec1ae189b1ca6f0800000000000000
+      internalID: -672131904222146956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_124
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 26
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4d809419d65f610800000000000000
+      internalID: 1654348908891526323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_125
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 6
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a4a34450762d740800000000000000
+      internalID: 5175312194119289444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_126
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 3
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16fe9ae01cf87120800000000000000
+      internalID: 2411954750042863131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_127
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 18
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa0707f1775ed5e0800000000000000
+      internalID: -1882971447206933765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_128
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 10
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fcd605278339dc40800000000000000
+      internalID: 5537513872363543800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_129
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e74be04c960e380800000000000000
+      internalID: -8944032569176588720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antecabno_130
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 344
+        width: 1230
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ed9a81a6579724d9e1d33d0fe2ecf9
+      internalID: -1434339194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Antecabno_0: 7091808974525693652
+      Antecabno_1: 5753926453015624068
+      Antecabno_10: -287842963421324864
+      Antecabno_100: -5332390678804629793
+      Antecabno_101: -7488627830063084792
+      Antecabno_102: 3777214740431593867
+      Antecabno_103: -4202338602059639291
+      Antecabno_104: 8260170045157003350
+      Antecabno_105: -760336680077212786
+      Antecabno_106: 7889150812399263774
+      Antecabno_107: 3985747757726964758
+      Antecabno_108: -2502369867679143620
+      Antecabno_109: 3328007511543249953
+      Antecabno_11: -2108548842549924028
+      Antecabno_110: -4187244734626377148
+      Antecabno_111: 7226167046138493577
+      Antecabno_112: -8725577015256484864
+      Antecabno_113: -4363743166003601695
+      Antecabno_114: -523854053730968422
+      Antecabno_115: 8829649009159377936
+      Antecabno_116: -6423597115828542534
+      Antecabno_117: 8735342499886512480
+      Antecabno_118: 4094369561853550641
+      Antecabno_119: 5182796701134702731
+      Antecabno_12: 2487881722641483614
+      Antecabno_120: 809523579408581725
+      Antecabno_121: 6558868278793404663
+      Antecabno_122: 6595784021078510220
+      Antecabno_123: -672131904222146956
+      Antecabno_124: 1654348908891526323
+      Antecabno_125: 5175312194119289444
+      Antecabno_126: 2411954750042863131
+      Antecabno_127: -1882971447206933765
+      Antecabno_128: 5537513872363543800
+      Antecabno_129: -8944032569176588720
+      Antecabno_13: 3438437426534880310
+      Antecabno_130: -1434339194
+      Antecabno_14: 1260671784111280498
+      Antecabno_15: -1920271424226745523
+      Antecabno_16: -5080247304029348868
+      Antecabno_17: 3199431213964813753
+      Antecabno_18: -4534142162804050446
+      Antecabno_19: 6671860365314595772
+      Antecabno_2: -7786233031817836938
+      Antecabno_20: -6897757588266450333
+      Antecabno_21: -1915950062896255933
+      Antecabno_22: -1568516503801405018
+      Antecabno_23: 3983582689738256092
+      Antecabno_24: 9053137669578552657
+      Antecabno_25: 844733868335174561
+      Antecabno_26: 6924901867079687142
+      Antecabno_27: -6038107651821243147
+      Antecabno_28: -7612156251243617062
+      Antecabno_29: -6111220179851624844
+      Antecabno_3: 5581759432520234562
+      Antecabno_30: -3531245859338180502
+      Antecabno_31: -1098877934537792419
+      Antecabno_32: -5682193287658652525
+      Antecabno_33: -8698034228976971236
+      Antecabno_34: -8193891235161061839
+      Antecabno_35: -6196922834718182660
+      Antecabno_36: -8289022856487551174
+      Antecabno_37: 4186058145487398697
+      Antecabno_38: 4281625549065634321
+      Antecabno_39: 53389221836837855
+      Antecabno_4: -4051178291579085676
+      Antecabno_40: 6236161546639512306
+      Antecabno_41: -80396624935655647
+      Antecabno_42: 4244351171739636656
+      Antecabno_43: -8670735959795803097
+      Antecabno_44: -5567401237239294996
+      Antecabno_45: -1932049290515681163
+      Antecabno_46: -1733537694000997400
+      Antecabno_47: -4202503382047386405
+      Antecabno_48: -6803075835961982040
+      Antecabno_49: 178017656168061824
+      Antecabno_5: 5406741197004071779
+      Antecabno_50: -93355129378744428
+      Antecabno_51: 6687902386503877659
+      Antecabno_52: 2733755024934015087
+      Antecabno_53: 3517380974617417595
+      Antecabno_54: 2831721108541297023
+      Antecabno_55: 7410408903183198423
+      Antecabno_56: 1993596978445177848
+      Antecabno_57: 5225996289004815370
+      Antecabno_58: -3391805030141951234
+      Antecabno_59: 547613102997612755
+      Antecabno_6: 2233119421959663085
+      Antecabno_60: -8679467922181044648
+      Antecabno_61: 1299392775586600925
+      Antecabno_62: 8805855371537735890
+      Antecabno_63: 6375831640731050455
+      Antecabno_64: 1717210721226477224
+      Antecabno_65: 6258797888479778255
+      Antecabno_66: 1062898003239366790
+      Antecabno_67: -4751234833873372264
+      Antecabno_68: 885943287717235074
+      Antecabno_69: -2415282677325576255
+      Antecabno_7: 1334559591671538195
+      Antecabno_70: 2622301355846151469
+      Antecabno_71: 5045339458473358905
+      Antecabno_72: -2054433031718260480
+      Antecabno_73: -6563968988197220533
+      Antecabno_74: 3255938453368366651
+      Antecabno_75: -1717614745265306479
+      Antecabno_76: 3229283881375959913
+      Antecabno_77: 3287653949460090059
+      Antecabno_78: -3297340328876872627
+      Antecabno_79: 3084706634630914699
+      Antecabno_8: 3173910207635254796
+      Antecabno_80: 6468338960090691202
+      Antecabno_81: -5226394123166308636
+      Antecabno_82: 5003662954503191805
+      Antecabno_83: -6289970306230694918
+      Antecabno_84: 1432221434663330423
+      Antecabno_85: 56933303170786365
+      Antecabno_86: 107425507847428057
+      Antecabno_87: -4241137922759828191
+      Antecabno_88: 7160058990774445047
+      Antecabno_89: 8461067744722318309
+      Antecabno_9: 7066749116893009744
+      Antecabno_90: -8593601286452195996
+      Antecabno_91: 3307235965886321374
+      Antecabno_92: 8770520955275283397
+      Antecabno_93: -4256261047477267170
+      Antecabno_94: -6492929795565512853
+      Antecabno_95: -7061246855434510719
+      Antecabno_96: 982686051653737495
+      Antecabno_97: 4470352044626684304
+      Antecabno_98: -3484767306674397154
+      Antecabno_99: -3440176069245047435
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
