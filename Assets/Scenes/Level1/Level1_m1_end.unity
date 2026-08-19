@@ -693,7 +693,7 @@ MonoBehaviour:
   backButtonObject: {fileID: 893500231}
   backButton: {fileID: 893500233}
   backButtonFadeDuration: 0.4
-  nextScene: MainMenu
+  nextScene: Level2_m1
 --- !u!4 &1107263584
 Transform:
   m_ObjectHideFlags: 0
